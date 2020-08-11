@@ -2,11 +2,13 @@
 
 # About me
 
-I am a student of Computer Engineering at the Federal University of São Carlos
+I am a student of Computer Engineering at the Federal University of São Carlos.
+
+[Linkedin](https://www.facebook.com/)
 
 # Interests
 
-I have great interest in the areas of Machine Learning and Data Science
+I have great interest in the areas of Machine Learning and Data Science.
 
 # Projects
 
