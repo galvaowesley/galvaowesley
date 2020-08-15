@@ -25,4 +25,4 @@ I have great interest in the areas of Machine Learning and Data Science.
 - [Covid 19 no Brasil - Análise de Dados](https://www.kaggle.com/galvaowesley/covid-19-no-brasil-an-lise-de-dados)
 - [Índice Socioeconômicos - Brasil ](https://www.kaggle.com/galvaowesley/ndice-socioecon-micos-brasil)
 - [Brincando com Google Trends - R](https://www.kaggle.com/galvaowesley/brincando-com-google-trends-r)
-- [Predicting movie scores with linear regression](https://www.dropbox.com/s/lws2z3f8nyiqovv/Wesley_reg_model_project.html?dl=0)
+- [Predicting movie score with linear regression](https://s3.amazonaws.com/coursera-uploads/peer-review/5d3b8a9ab1baa35eabb6b41837b73772/Wesley_reg_model_project.html)
