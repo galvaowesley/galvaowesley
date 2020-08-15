@@ -23,6 +23,7 @@ I have great interest in the areas of Machine Learning and Data Science.
 
 - [NLP & TensorFlow - Predicting sarcastic sentences](https://www.kaggle.com/galvaowesley/nlp-tensorflow-predicting-sarcastic-sentences)
 - [Covid 19 no Brasil - Análise de Dados](https://www.kaggle.com/galvaowesley/covid-19-no-brasil-an-lise-de-dados)
+- [Predicting movie score with linear regression](https://s3.amazonaws.com/coursera-uploads/peer-review/5d3b8a9ab1baa35eabb6b41837b73772/Wesley_reg_model_project.html)
 - [Índice Socioeconômicos - Brasil ](https://www.kaggle.com/galvaowesley/ndice-socioecon-micos-brasil)
 - [Brincando com Google Trends - R](https://www.kaggle.com/galvaowesley/brincando-com-google-trends-r)
-- [Predicting movie score with linear regression](https://s3.amazonaws.com/coursera-uploads/peer-review/5d3b8a9ab1baa35eabb6b41837b73772/Wesley_reg_model_project.html)
+
