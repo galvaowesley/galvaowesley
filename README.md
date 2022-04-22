@@ -4,7 +4,11 @@ Hi 👋 My name is Wesley Galvão
 Data Scientist and Machine Learning enthusiast
 ----------------------------------------------
 
-I am a Computer Engineering student and currently an intern in Data Science at the Brazilian e-commerce company called Americanas S.A. I work in the investigation of problems to answer business questions with data, whether through solutions based on Machine Learning, statistics or Natural Language Processing. In addition, I have a research grant in a Scientific Initiation program for Computer Vision, in which I investigate ways to interpret the representations of a Deep Learning model for image segmentation.
+I am a Computer Engineering student at UFSCar and currently working at the company [Americanas Advertising](https://americanasadvertising.com/?hsa_acc=6376758764&hsa_cam=10839362620&hsa_grp=107103658215&hsa_ad=581185364792&hsa_src=g&hsa_tgt=kwd-322603825808&hsa_kw=b2w+ads&hsa_mt=b&hsa_net=adwords&hsa_ver=3) as Data Science Intern. 
+
+I work in the investigation of problems to answer business questions with data, whether through solutions based on Machine Learning, statistics or Natural Language Processing. 
+
+In addition, I have a research grant in a Scientific Initiation program for Computer Vision, in which I investigate ways to interpret the representations of a Deep Learning model for image segmentation.
 
 *   🌍  I'm based in Brazil, State of São Paulo
 *   🧠  I'm learning Pytorch, TensorFlow, Image Segmentation
@@ -16,29 +20,17 @@ I am a Computer Engineering student and currently an intern in Data Science at t
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-</p>
 
-<p align="left">
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.r-project.org/logo/Rlogo.svg" width="36" height="36" alt="R" /></a>
-</p>
 
-<p align="left">
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="36" height="36" alt="TensorFlow" /></a>
-</p>
 
-<p align="left">
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://pytorch.org/assets/images/pytorch-logo.png" width="36" height="36" alt="Pytorch" /></a>
-</p>
 
-<p align="left">
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikitlearn" /></a>
-</p>
 
-<p align="left">
-<a href="https://datastudio.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/google-data-studio-logo.png" width="36" height="36" alt="DataStudio" /></a>
-</p>
+<a href="https://datastudio.google.com/" target="_blank" rel="noreferrer"><img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg" width="36" height="36" alt="DataStudio" /></a>
 
-<p align="left">
 <a href="https://console.cloud.google.com/marketplace/product/thorn-technologies-public/sftp-gateway?project=thorn-technologies-public&pli=1" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-5.png" width="36" height="36" alt="GoogleCloud" /></a>
 </p>
 
