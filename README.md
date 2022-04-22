@@ -1,14 +1,21 @@
-### Hi there 👋
+Hi 👋 My name is Wesley Galvão
+==============================
 
-# About me
+Data Scientist and Machine Learning enthusiast
+----------------------------------------------
 
-I am a student of Computer Engineering at the Federal University of São Carlos.
+I am a Computer Engineering student and currently an intern in Data Science at the Brazilian e-commerce company called Americanas S.A. I work in the investigation of problems to answer business questions with data, whether through solutions based on Machine Learning, statistics or Natural Language Processing. In addition, I have a research grant in a Scientific Initiation program for Computer Vision, in which I investigate ways to interpret the representations of a Deep Learning model for image segmentation.
 
-[Linkedin](https://www.facebook.com/)
+*   🌍  I'm based in Brazil, State of São Paulo
+*   🧠  I'm learning Pytorch, TensorFlow, Image Segmentation
+<a href="https://www.github.com/galvaowesley" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/galvaowesley?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-# Interests
-
-I have great interest in the areas of Machine Learning and Data Science.
+### Skills
+<p align="left">
+                                <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+                    </p>
+  
 
 # Projects
 
@@ -19,7 +26,7 @@ I have great interest in the areas of Machine Learning and Data Science.
 - [Basic NLP, EDA & TensorFlow - Real or Fake tweets - Score: 0.79926](https://www.kaggle.com/galvaowesley/basic-nlp-eda-tensorflow-real-or-fake-tweets?scriptVersionId=40524824)
 - [Survivors Classification on Titanic using R - Score: 0.80382](https://www.kaggle.com/galvaowesley/survivors-classification-on-titanic-using-r)
 
-### Notebooks
+# Notebooks
 
 - [Câncer de Mama - Agrupamento por aprendizado não supervisionado](https://colab.research.google.com/drive/1uPTarZDgOddMsHrpjHumsVJvuy4GowP6?usp=sharing)
 - [NLP & TensorFlow - Predicting sarcastic sentences](https://www.kaggle.com/galvaowesley/nlp-tensorflow-predicting-sarcastic-sentences)
@@ -28,3 +35,14 @@ I have great interest in the areas of Machine Learning and Data Science.
 - [Índice Socioeconômicos - Brasil ](https://www.kaggle.com/galvaowesley/ndice-socioecon-micos-brasil)
 - [Brincando com Google Trends - R](https://www.kaggle.com/galvaowesley/brincando-com-google-trends-r)
 
+# Socials
+                  
+                  <p align="left"> <a href="https://www.github.com/galvaowesley" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/wesleygalvao" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+# Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/galvaowesley"><img src="https://github-readme-stats.vercel.app/api?username=galvaowesley&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="galvaowesley's GitHub stats" /></a>
+
+<a href="http://www.github.com/galvaowesley"><img src="https://activity-graph.herokuapp.com/graph?username=galvaowesley&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
