@@ -19,19 +19,19 @@ In addition, I have a research grant in a Scientific Initiation program for Comp
 ### Skills
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
 
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.r-project.org/logo/Rlogo.svg" width="36" height="36" alt="R" /></a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.r-project.org/logo/Rlogo.svg" width="36" height="36" alt="R" />
 
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="36" height="36" alt="TensorFlow" /></a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="36" height="36" alt="TensorFlow" />
 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://pytorch.org/assets/images/pytorch-logo.png" width="36" height="36" alt="Pytorch" /></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://pytorch.org/assets/images/pytorch-logo.png" width="36" height="36" alt="Pytorch" />
 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikitlearn" /></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikitlearn" />
 
-<a href="https://datastudio.google.com/" target="_blank" rel="noreferrer"><img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg" width="36" height="36" alt="DataStudio" /></a>
+<a href="https://datastudio.google.com/" target="_blank" rel="noreferrer"><img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg" width="36" height="36" alt="DataStudio" />
 
-<a href="https://console.cloud.google.com/marketplace/product/thorn-technologies-public/sftp-gateway?project=thorn-technologies-public&pli=1" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-5.png" width="36" height="36" alt="GoogleCloud" /></a>
+<a href="https://console.cloud.google.com/marketplace/product/thorn-technologies-public/sftp-gateway?project=thorn-technologies-public&pli=1" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-5.png" width="36" height="36" alt="GoogleCloud" />
 </p>
 
 
