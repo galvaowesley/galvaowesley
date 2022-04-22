@@ -8,13 +8,43 @@ I am a Computer Engineering student and currently an intern in Data Science at t
 
 *   🌍  I'm based in Brazil, State of São Paulo
 *   🧠  I'm learning Pytorch, TensorFlow, Image Segmentation
+
 <a href="https://www.github.com/galvaowesley" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/galvaowesley?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
+
 <p align="left">
-                                <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-                    </p>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+</p>
+
+<p align="left">
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.r-project.org/logo/Rlogo.svg" width="36" height="36" alt="R" /></a>
+</p>
+
+<p align="left">
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="36" height="36" alt="TensorFlow" /></a>
+</p>
+
+<p align="left">
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://pytorch.org/assets/images/pytorch-logo.png" width="36" height="36" alt="Pytorch" /></a>
+</p>
+
+<p align="left">
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36" height="36" alt="Scikitlearn" /></a>
+</p>
+
+<p align="left">
+<a href="https://datastudio.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/google-data-studio-logo.png" width="36" height="36" alt="DataStudio" /></a>
+</p>
+
+<p align="left">
+<a href="https://console.cloud.google.com/marketplace/product/thorn-technologies-public/sftp-gateway?project=thorn-technologies-public&pli=1" target="_blank" rel="noreferrer"><img src="https://logodownload.org/wp-content/uploads/2021/06/google-cloud-logo-5.png" width="36" height="36" alt="GoogleCloud" /></a>
+</p>
+
+
+
+
   
 
 # Projects
@@ -37,7 +67,7 @@ I am a Computer Engineering student and currently an intern in Data Science at t
 
 # Socials
                   
-                  <p align="left"> <a href="https://www.github.com/galvaowesley" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/wesleygalvao" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/galvaowesley" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/wesleygalvao" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 # Badges
 
