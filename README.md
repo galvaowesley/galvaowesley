@@ -4,17 +4,7 @@ Hi 👋 My name is Wesley Galvão
 Data Scientist Intern and Machine Learning Enthusiast
 ----------------------------------------------
 
-I am a Computer Engineering student at UFSCar and currently working at the company [Americanas Advertising](https://americanasadvertising.com/?hsa_acc=6376758764&hsa_cam=10839362620&hsa_grp=107103658215&hsa_ad=581185364792&hsa_src=g&hsa_tgt=kwd-322603825808&hsa_kw=b2w+ads&hsa_mt=b&hsa_net=adwords&hsa_ver=3) as Data Science Intern. 
-
-I work in the investigation of problems to answer business questions with data, whether through solutions based on Machine Learning, statistics or Natural Language Processing. 
-
-In addition, I have a research grant in a Scientific Initiation program for Computer Vision, in which I investigate ways to interpret the representations of a Deep Learning model for image segmentation.
-
-*   🌍  I'm based in Brazil, State of São Paulo
-*   🧠  I'm learning Pytorch, TensorFlow, Image Segmentation
-
-<a href="https://www.github.com/galvaowesley" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/galvaowesley?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+I am a Computer Engineer, master's student in Computer Vision and Data Scientist with experience in the e-commerce industry. 
 
 ### Skills
 
