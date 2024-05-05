@@ -4,7 +4,7 @@ Hi 👋 My name is Wesley Galvão
 Data Scientist Intern and Machine Learning Enthusiast
 ----------------------------------------------
 
-I am a Computer Engineer, master's student in Computer Vision and Data Scientist with experience in the e-commerce industry. 
+I am a Computer Engineer and current Master's student in Computer Science focused in the Computer Vision area. Furthermore, I have a solid experience in Data Science within the e-commerce sector, in which I contributed to complex analysis using Big Data, development of mathematical and predictive models and creation of Machine Learning pipelines. My academic background includes research in Computer Vision, particularly in developing Convolutional Neural Networks for image segmentation, in addition to projects involving Natural Language Processing. 
 
 ### Skills
 
